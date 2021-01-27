@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ugruvijay.github.io/static/css/main.ccf943ee.chunk.css",
+    "main.js": "/ugruvijay.github.io/static/js/main.cbe47091.chunk.js",
+    "main.js.map": "/ugruvijay.github.io/static/js/main.cbe47091.chunk.js.map",
+    "runtime-main.js": "/ugruvijay.github.io/static/js/runtime-main.59db687b.js",
+    "runtime-main.js.map": "/ugruvijay.github.io/static/js/runtime-main.59db687b.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/ugruvijay.github.io/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.d347a2a5.chunk.js": "/ugruvijay.github.io/static/js/2.d347a2a5.chunk.js",
+    "static/js/2.d347a2a5.chunk.js.map": "/ugruvijay.github.io/static/js/2.d347a2a5.chunk.js.map",
+    "static/js/3.a94345ad.chunk.js": "/ugruvijay.github.io/static/js/3.a94345ad.chunk.js",
+    "static/js/3.a94345ad.chunk.js.map": "/ugruvijay.github.io/static/js/3.a94345ad.chunk.js.map",
+    "index.html": "/ugruvijay.github.io/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/ugruvijay.github.io/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.ccf943ee.chunk.css.map": "/ugruvijay.github.io/static/css/main.ccf943ee.chunk.css.map",
+    "static/js/2.d347a2a5.chunk.js.LICENSE.txt": "/ugruvijay.github.io/static/js/2.d347a2a5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ugruvijay.github.io/static/media/bg.54815803.png",
+    "static/media/dp.764d4a6c.jpg": "/ugruvijay.github.io/static/media/dp.764d4a6c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59db687b.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.d347a2a5.chunk.js",
+    "static/css/main.ccf943ee.chunk.css",
+    "static/js/main.cbe47091.chunk.js"
+  ]
+}
